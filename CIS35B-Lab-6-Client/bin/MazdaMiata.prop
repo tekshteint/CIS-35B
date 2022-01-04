@@ -1,0 +1,43 @@
+Make=Mazda
+Model=Miata MX-5
+BasePrice=20995
+Year=2006
+Option1:Color
+Option1A_name:Brilliant Black
+Option1A_price:0
+Option1B_name:Copper Red Mica
+Option1B_price:0
+Option1C_name:True Red
+Option1C_price:0
+Option1D_name:Galaxy Gray Mica
+Option1D_price:0
+Option1E_name:Marble White
+Option1E_price:0
+Option1F_name:Nordic Green Mica
+Option1F_price:0
+Option1G_name:Sunlight Silver
+Option1G_price:0
+Option1H_name:Winning Blue Metallic
+Option1H_price:100
+Option2:Transmission
+Option2A_name:automatic
+Option2A_price:0
+Option2B_name:standard
+Option2B_price:-815
+Option3:Traction Control
+Option3A_name:standard
+Option3A_price:0
+Option3B_name:ABS
+Option3B_price:400
+Option4:Power Locks
+Option4A_name:none
+Option4A_price:0
+Option4B_name:included
+Option4B_price:500
+Option5:Roof
+Option5A_name:soft top
+Option5A_price:0
+Option5B_name:hard top
+Option5B_price:2000
+Option5C_name:PHRT
+Option5C_price:5000
