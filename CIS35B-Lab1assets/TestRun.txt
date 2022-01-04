@@ -1,0 +1,220 @@
+******************************Lab 1 Test - Run 1 (correct car info)*********************************
+Before serialization - printing FordZTW:
+Focus Wagon ZTW starting at a base price of $18445.00.
+See additional options below:
+********************** Color,Fort Knox Gold Clearcoat Metallic,0 **********************
+
+********************** Color,Liquid Grey Clearcoat Metallic,0 **********************
+
+********************** Color,Infra-Red Clearcoat,0 **********************
+
+********************** Color,Grabber Green Clearcoat Metallic,0 **********************
+
+********************** Color,Sangria Red Clearcoat Metallic,0 **********************
+
+********************** Color,French Blue Clearcoat Metallic,0 **********************
+
+********************** Color,Twilight Blue Clearcoat Metallic,0 **********************
+
+********************** Color,CD Silver Clearcoat Metallic,0 **********************
+
+********************** Color,Pitch Black Clearcoat,0 **********************
+
+********************** Color,Cloud 9 White Clearcoat,0 **********************
+
+********************** Transmission,automatic,0  **********************
+
+********************** Transmission,manual,-815  **********************
+
+********************** Brakes/Traction Control,Standard,0 **********************
+
+********************** Brakes/Traction Control,ABS,400 **********************
+
+********************** Brakes/Traction Control,ABS with Advance Trac,1625 **********************
+
+********************** Side Impact Air Bags,present,350 **********************
+
+********************** Side Impact Air Bags,not present,0 **********************
+
+********************** Power Moonroof,present,595 **********************
+
+********************** Power Moonroof,not present,0 **********************
+
+After serialization - printing newFordZTW:
+Focus Wagon ZTW starting at a base price of $18445.00.
+See additional options below:
+********************** Color,Fort Knox Gold Clearcoat Metallic,0 **********************
+
+********************** Color,Liquid Grey Clearcoat Metallic,0 **********************
+
+********************** Color,Infra-Red Clearcoat,0 **********************
+
+********************** Color,Grabber Green Clearcoat Metallic,0 **********************
+
+********************** Color,Sangria Red Clearcoat Metallic,0 **********************
+
+********************** Color,French Blue Clearcoat Metallic,0 **********************
+
+********************** Color,Twilight Blue Clearcoat Metallic,0 **********************
+
+********************** Color,CD Silver Clearcoat Metallic,0 **********************
+
+********************** Color,Pitch Black Clearcoat,0 **********************
+
+********************** Color,Cloud 9 White Clearcoat,0 **********************
+
+********************** Transmission,automatic,0  **********************
+
+********************** Transmission,manual,-815  **********************
+
+********************** Brakes/Traction Control,Standard,0 **********************
+
+********************** Brakes/Traction Control,ABS,400 **********************
+
+********************** Brakes/Traction Control,ABS with Advance Trac,1625 **********************
+
+********************** Side Impact Air Bags,present,350 **********************
+
+********************** Side Impact Air Bags,not present,0 **********************
+
+********************** Power Moonroof,present,595 **********************
+
+********************** Power Moonroof,not present,0 **********************
+
+******************************Lab 1 Test - Run 2 (altered car file #1)*********************************
+Before serialization - printing FordZTW2:
+Focus Wagon ZTW starting at a base price of $18445.00.
+See additional options below:
+********************** Color,Liquid Grey Clearcoat Metallic,0 **********************
+
+********************** Color,Infra-Red Clearcoat,0 **********************
+
+********************** Color,Grabber Green Clearcoat Metallic,0 **********************
+
+********************** Color,Sangria Red Clearcoat Metallic,0 **********************
+
+********************** Color,Pitch Black Clearcoat,0 **********************
+
+********************** Color,Cloud 9 White Clearcoat,0 **********************
+
+********************** Transmission,automatic,0  **********************
+
+********************** Transmission,manual,-815  **********************
+
+********************** Brakes/Traction Control,Standard,0 **********************
+
+********************** Brakes/Traction Control,ABS,400 **********************
+
+********************** Brakes/Traction Control,ABS with Advance Trac,1625 **********************
+
+********************** Side Impact Air Bags,present,350 **********************
+
+********************** Side Impact Air Bags,not present,0 **********************
+
+********************** Power Moonroof,present,595 **********************
+
+********************** Power Moonroof,not present,0 **********************
+
+After serialization - printing newFordZTW2:
+Focus Wagon ZTW starting at a base price of $18445.00.
+See additional options below:
+********************** Color,Liquid Grey Clearcoat Metallic,0 **********************
+
+********************** Color,Infra-Red Clearcoat,0 **********************
+
+********************** Color,Grabber Green Clearcoat Metallic,0 **********************
+
+********************** Color,Sangria Red Clearcoat Metallic,0 **********************
+
+********************** Color,Pitch Black Clearcoat,0 **********************
+
+********************** Color,Cloud 9 White Clearcoat,0 **********************
+
+********************** Transmission,automatic,0  **********************
+
+********************** Transmission,manual,-815  **********************
+
+********************** Brakes/Traction Control,Standard,0 **********************
+
+********************** Brakes/Traction Control,ABS,400 **********************
+
+********************** Brakes/Traction Control,ABS with Advance Trac,1625 **********************
+
+********************** Side Impact Air Bags,present,350 **********************
+
+********************** Side Impact Air Bags,not present,0 **********************
+
+********************** Power Moonroof,present,595 **********************
+
+********************** Power Moonroof,not present,0 **********************
+
+******************************Lab 1 Test - Run 3 (altered car file #2)*********************************
+Before serialization - printing FordZTW3:
+Focus Wagon ZTW starting at a base price of $18445.00.
+See additional options below:
+********************** Color,Liquid Grey Clearcoat Metallic,0 **********************
+
+********************** Color,Infra-Red Clearcoat,0 **********************
+
+********************** Color,Grabber Green Clearcoat Metallic,0 **********************
+
+********************** Color,Sangria Red Clearcoat Metallic,0 **********************
+
+********************** Color,French Blue Clearcoat Metallic,0 **********************
+
+********************** Color,Twilight Blue Clearcoat Metallic,0 **********************
+
+********************** Color,CD Silver Clearcoat Metallic,0 **********************
+
+********************** Color,Pitch Black Clearcoat,0 **********************
+
+********************** Color,Cloud 9 White Clearcoat,0 **********************
+
+********************** Transmission,automatic,0  **********************
+
+********************** Transmission,manual,-815  **********************
+
+********************** Brakes/Traction Control,Standard,0 **********************
+
+********************** Brakes/Traction Control,ABS,400 **********************
+
+********************** Brakes/Traction Control,ABS with Advance Trac,1625 **********************
+
+********************** Side Impact Air Bags,present,350 **********************
+
+********************** Side Impact Air Bags,not present,0 **********************
+
+After serialization - printing newFordZTW3:
+Focus Wagon ZTW starting at a base price of $18445.00.
+See additional options below:
+********************** Color,Liquid Grey Clearcoat Metallic,0 **********************
+
+********************** Color,Infra-Red Clearcoat,0 **********************
+
+********************** Color,Grabber Green Clearcoat Metallic,0 **********************
+
+********************** Color,Sangria Red Clearcoat Metallic,0 **********************
+
+********************** Color,French Blue Clearcoat Metallic,0 **********************
+
+********************** Color,Twilight Blue Clearcoat Metallic,0 **********************
+
+********************** Color,CD Silver Clearcoat Metallic,0 **********************
+
+********************** Color,Pitch Black Clearcoat,0 **********************
+
+********************** Color,Cloud 9 White Clearcoat,0 **********************
+
+********************** Transmission,automatic,0  **********************
+
+********************** Transmission,manual,-815  **********************
+
+********************** Brakes/Traction Control,Standard,0 **********************
+
+********************** Brakes/Traction Control,ABS,400 **********************
+
+********************** Brakes/Traction Control,ABS with Advance Trac,1625 **********************
+
+********************** Side Impact Air Bags,present,350 **********************
+
+********************** Side Impact Air Bags,not present,0 **********************

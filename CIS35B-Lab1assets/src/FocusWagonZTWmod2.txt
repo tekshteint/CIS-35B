@@ -1,0 +1,24 @@
+Focus Wagon ZTW
+18445
+4
+Color
+Transmission
+Brakes/Traction Control
+Side Impact Air Bags
+Color,Fort Knox Gold Clearcoat Metallic,0
+Color,Liquid Grey Clearcoat Metallic,0
+Color,Infra-Red Clearcoat,0
+Color,Grabber Green Clearcoat Metallic,0
+Color,Sangria Red Clearcoat Metallic,0
+Color,French Blue Clearcoat Metallic,0
+Color,Twilight Blue Clearcoat Metallic,0
+Color,CD Silver Clearcoat Metallic,0
+Color,Pitch Black Clearcoat,0
+Color,Cloud 9 White Clearcoat,0
+Transmission,automatic,0
+Transmission,manual,-815
+Brakes/Traction Control,Standard,0
+Brakes/Traction Control,ABS,400
+Brakes/Traction Control,ABS with Advance Trac,1625
+Side Impact Air Bags,present,350
+Side Impact Air Bags,not present,0
